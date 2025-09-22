@@ -11,8 +11,10 @@ We, the undersigned, call upon the Rails Core team, with the support of the wide
 
 If a forked Rails project can meet these criteria, we pledge to support and cheerlead it to the best of our ability, and will make efforts to change our Rails code to use it at the earliest opportunity.
 
+<!-- Please add your name in alphabetical order! -->
 |Name|Project/Affiliation|Contact|
 |-|-|-|
+|...|...|...|
 |James Smith|[Manyfold](https://manyfold.app)|[@floppy@mastodon.me.uk](https://mastodon.me.uk/@Floppy)|
 |...|...|...|
 
