@@ -1,0 +1,23 @@
+# Plan Vert
+## An open letter to the Rails Core team and community
+
+David Heinemeier-Hanson (DHH) has publicly published writings that make clear he holds racist and transphobic views, as well as a number of other traits undesirable in any figurehead and community leader.
+
+We, the undersigned, call upon the Rails Core team, with the support of the wider Ruby community, to:
+
+1. cut ties with DHH and his work from this point forward
+2. hard fork Rails and associated projects to a new name and development free from his influence
+3. adopt a modern Code of Conduct with suitable community governance
+
+If a forked Rails project can meet these criteria, we pledge to support and cheerlead it to the best of our ability, and will change our code to use it at the earliest opportunity.
+
+|Name|Project|Contact|
+|-|-|-|
+|James Smith|[Manyfold](https://manyfold.app)|[@floppy@mastodon.me.uk](https://mastodon.me.uk/@Floppy)|
+|...|...|...|
+
+### Notes (non-normative)
+
+* ["Plan Vert"](https://en.wikipedia.org/wiki/Railway_sabotage_during_World_War_II#France) was a railway sabotage campaign by the French resistance during WW2. Reference suggested by [@cinebox@masto.hackers.town](https://masto.hackers.town/@cinebox/115210459164892947).
+
+* DHH's writings are available on [his blog](https://web.archive.org/web/20250920182553/world.hey.com/dhh); we link the archive.org mirror rather than send traffic his way.
