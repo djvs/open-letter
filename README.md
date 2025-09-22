@@ -9,9 +9,9 @@ We, the undersigned, call upon the Rails Core team, with the support of the wide
 2. hard fork Rails and associated projects to a new name and development free from his influence
 3. adopt a modern Code of Conduct with suitable community governance
 
-If a forked Rails project can meet these criteria, we pledge to support and cheerlead it to the best of our ability, and will change our code to use it at the earliest opportunity.
+If a forked Rails project can meet these criteria, we pledge to support and cheerlead it to the best of our ability, and will make efforts to change our Rails code to use it at the earliest opportunity.
 
-|Name|Project|Contact|
+|Name|Project/Affiliation|Contact|
 |-|-|-|
 |James Smith|[Manyfold](https://manyfold.app)|[@floppy@mastodon.me.uk](https://mastodon.me.uk/@Floppy)|
 |...|...|...|
