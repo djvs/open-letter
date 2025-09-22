@@ -21,3 +21,8 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 * ["Plan Vert"](https://en.wikipedia.org/wiki/Railway_sabotage_during_World_War_II#France) was a railway sabotage campaign by the French resistance during WW2. Reference suggested by [@cinebox@masto.hackers.town](https://masto.hackers.town/@cinebox/115210459164892947).
 
 * DHH's writings are available on [his blog](https://web.archive.org/web/20250920182553/world.hey.com/dhh); we link the archive.org mirror rather than send traffic his way.
+
+* Many people have written their own thoughts on this (which is not a new problem, but is reaching new levels). Here's a selection:
+  * [Tom Stuart: The DHH Problem](https://tomstu.art/the-dhh-problem)
+  * [David Celis: Rails Needs New Governance](https://davidcel.is/articles/rails-needs-new-governance)
+  * [Tekin Süleyman: The Ruby community has a DHH problem](https://tekin.co.uk/2025/09/the-ruby-community-has-a-dhh-problem)
