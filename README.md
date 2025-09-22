@@ -16,6 +16,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |-|-|-|
 |...|...|...|
 |James Smith|[Manyfold](https://manyfold.app)|[@floppy@mastodon.me.uk](https://mastodon.me.uk/@Floppy)|
+|Cédric Delalande|[Barley Serializer](https://github.com/MoskitoHero/barley)|[@MoskitoHero@ruby.social](https://ruby.social/@MoskitoHero)|
 |...|...|...|
 
 ### Notes (non-normative)
