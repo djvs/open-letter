@@ -19,6 +19,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |F|-|[@erbridge@sunspot.garden](https://sunspot.garden/@erbridge)|
 |James Smith|[Manyfold](https://manyfold.app)|[@floppy@mastodon.me.uk](https://mastodon.me.uk/@Floppy)|
 |Weldys Santos|[WS Tech](https://www.github.com/weldyss)|[@weldyss@bolha.us](https://bolha.us/@weldyss)|
+|Jon Wood|-|[@jon@blankpad.net](https://activitypub.blankpad.net/@jon@blankpad.net/)|
 |...|...|...|
 
 ### Notes (non-normative)
