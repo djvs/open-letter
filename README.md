@@ -14,7 +14,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 <!-- Please add your name in alphabetical order! -->
 |Name|Project/Affiliation|Contact|
 |-|-|-|
-|Andrew Nesbitt|[Ecosyste.ms](https://ecosyste.ms)|[andrew@ecosyste.ms]|
+|Andrew Nesbitt|[Ecosyste.ms](https://ecosyste.ms)|andrew@ecosyste.ms|
 |Cédric Delalande|[Barley Serializer](https://github.com/MoskitoHero/barley)|[@MoskitoHero@ruby.social](https://ruby.social/@MoskitoHero)|
 |James Smith|[Manyfold](https://manyfold.app)|[@floppy@mastodon.me.uk](https://mastodon.me.uk/@Floppy)|
 |...|...|...|
