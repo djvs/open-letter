@@ -22,6 +22,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Jochen Lillich|-|[@monospace@floss.social](https://floss.social/@monospace)|
 |Jon Wood|-|[@jon@blankpad.net](https://activitypub.blankpad.net/@jon@blankpad.net/)|
 |Weldys Santos|[WS Tech](https://www.github.com/weldyss)|[@weldyss@bolha.us](https://bolha.us/@weldyss)|
+|...|...|...|
 
 ### Notes (non-normative)
 
