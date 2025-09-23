@@ -14,6 +14,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 <!-- Please add your name in alphabetical order! -->
 |Name|Project/Affiliation|Contact|
 |-|-|-|
+|Adrian McEwen|[MCQN Ltd](https://mcqn.com)|[@amcewen@mastodon.me.uk](https://mastodon.me.uk/@amcewen)|
 |Andrew Nesbitt|[Ecosyste.ms](https://ecosyste.ms)|andrew@ecosyste.ms|
 |Cédric Delalande|[Barley Serializer](https://github.com/MoskitoHero/barley)|[@MoskitoHero@ruby.social](https://ruby.social/@MoskitoHero)|
 |F|-|[@erbridge@sunspot.garden](https://sunspot.garden/@erbridge)|
@@ -22,10 +23,10 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Jared White|[Fullstack Ruby](https://fullstackruby.dev)|[@jaredwhite@indieweb.social](https://indieweb.social/@jaredwhite)|
 |Jochen Lillich|-|[@monospace@floss.social](https://floss.social/@monospace)|
 |Jon Wood|-|[@jon@blankpad.net](https://activitypub.blankpad.net/@jon@blankpad.net/)|
-|Weldys Santos|[WS Tech](https://www.github.com/weldyss)|[@weldyss@bolha.us](https://bolha.us/@weldyss)|
 |Dr Kim Foale|[Geeks for Social Change](https://gfsc.community/)|[kim@social.gfsc.studio](https://social.gfsc.studio/@kim)
-|Adrian McEwen|[MCQN Ltd](https://mcqn.com)|[@amcewen@mastodon.me.uk](https://mastodon.me.uk/@amcewen)|
+|Weldys Santos|[WS Tech](https://www.github.com/weldyss)|[@weldyss@bolha.us](https://bolha.us/@weldyss)|
 |...|...|...|
+<!-- Please add your name in alphabetical order! -->
 
 ### Notes (non-normative)
 
@@ -34,6 +35,6 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 * DHH's writings are available on [his blog](https://web.archive.org/web/20250920182553/world.hey.com/dhh); we link the archive.org mirror rather than send traffic his way.
 
 * Many people have written their own thoughts on this (which is not a new problem, but is reaching new levels). Here's a selection:
-  * [Tom Stuart: The DHH Problem](https://tomstu.art/the-dhh-problem)
   * [David Celis: Rails Needs New Governance](https://davidcel.is/articles/rails-needs-new-governance)
   * [Tekin Süleyman: The Ruby community has a DHH problem](https://tekin.co.uk/2025/09/the-ruby-community-has-a-dhh-problem)
+  * [Tom Stuart: The DHH Problem](https://tomstu.art/the-dhh-problem) (old, but illustrative)
