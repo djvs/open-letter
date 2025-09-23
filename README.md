@@ -29,6 +29,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Jonathon Anderson|-|[@anderson_jon@hachyderm.io](https://hachyderm.io/@anderson_jon)|
 |Dr Kim Foale|[Geeks for Social Change](https://gfsc.community/)|[kim@social.gfsc.studio](https://social.gfsc.studio/@kim)
 |Weldys Santos|[WS Tech](https://www.github.com/weldyss)|[@weldyss@bolha.us](https://bolha.us/@weldyss)|
+|Wout Fierens|-|[@wout.codes](https://bsky.app/profile/wout.codes)|
 |...|...|...|
 <!-- Please add your name in alphabetical order! -->
 
