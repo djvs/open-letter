@@ -21,6 +21,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Jared White|[Fullstack Ruby](https://fullstackruby.dev)|[@jaredwhite@indieweb.social](https://indieweb.social/@jaredwhite)|
 |Jon Wood|-|[@jon@blankpad.net](https://activitypub.blankpad.net/@jon@blankpad.net/)|
 |Weldys Santos|[WS Tech](https://www.github.com/weldyss)|[@weldyss@bolha.us](https://bolha.us/@weldyss)|
+|Harry Wood|-|[@en.osm.town/@harry_wood](https://en.osm.town/@harry_wood)|
 |...|...|...|
 
 ### Notes (non-normative)
