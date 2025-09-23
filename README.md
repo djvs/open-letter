@@ -25,6 +25,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Jared White|[Fullstack Ruby](https://fullstackruby.dev)|[@jaredwhite@indieweb.social](https://indieweb.social/@jaredwhite)|
 |Jochen Lillich|-|[@monospace@floss.social](https://floss.social/@monospace)|
 |Jon Wood|-|[@jon@blankpad.net](https://activitypub.blankpad.net/@jon@blankpad.net/)|
+|Jonathon Anderson|-|[@anderson_jon@hachyderm.io](https://hachyderm.io/@anderson_jon)|
 |Dr Kim Foale|[Geeks for Social Change](https://gfsc.community/)|[kim@social.gfsc.studio](https://social.gfsc.studio/@kim)
 |Weldys Santos|[WS Tech](https://www.github.com/weldyss)|[@weldyss@bolha.us](https://bolha.us/@weldyss)|
 |...|...|...|
