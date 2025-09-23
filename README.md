@@ -17,12 +17,12 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Andrew Nesbitt|[Ecosyste.ms](https://ecosyste.ms)|andrew@ecosyste.ms|
 |Cédric Delalande|[Barley Serializer](https://github.com/MoskitoHero/barley)|[@MoskitoHero@ruby.social](https://ruby.social/@MoskitoHero)|
 |F|-|[@erbridge@sunspot.garden](https://sunspot.garden/@erbridge)|
+|Harry Wood|-|[@en.osm.town/@harry_wood](https://en.osm.town/@harry_wood)|
 |James Smith|[Manyfold](https://manyfold.app)|[@floppy@mastodon.me.uk](https://mastodon.me.uk/@Floppy)|
 |Jared White|[Fullstack Ruby](https://fullstackruby.dev)|[@jaredwhite@indieweb.social](https://indieweb.social/@jaredwhite)|
 |Jochen Lillich|-|[@monospace@floss.social](https://floss.social/@monospace)|
 |Jon Wood|-|[@jon@blankpad.net](https://activitypub.blankpad.net/@jon@blankpad.net/)|
 |Weldys Santos|[WS Tech](https://www.github.com/weldyss)|[@weldyss@bolha.us](https://bolha.us/@weldyss)|
-|Harry Wood|-|[@en.osm.town/@harry_wood](https://en.osm.town/@harry_wood)|
 |...|...|...|
 
 ### Notes (non-normative)
