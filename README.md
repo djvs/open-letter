@@ -19,6 +19,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Andrew Nesbitt|[Ecosyste.ms](https://ecosyste.ms)|andrew@ecosyste.ms|
 |Cédric Delalande|[Barley Serializer](https://github.com/MoskitoHero/barley)|[@MoskitoHero@ruby.social](https://ruby.social/@MoskitoHero)|
 |David Celis|-|[davidcel.is](https://davidcel.is/about)|
+|Derek Houck|-|[derekhouck.com](https://derekhouck.com)|
 |Dmitry L Rocha|-|[@yetanother.place/@dmitry](https://yetanother.place/@dmitry)|
 |F|-|[@erbridge@sunspot.garden](https://sunspot.garden/@erbridge)|
 |Harry Wood|-|[@en.osm.town/@harry_wood](https://en.osm.town/@harry_wood)|
