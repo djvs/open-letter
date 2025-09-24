@@ -43,6 +43,10 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 
 ### Notes (non-normative)
 
+* We appreciate that this would be a very difficult process, and there are many reasons why it "can't be done". However, we don't really know unless we try, and at the very least we can show that there is community demand for action.
+
+* We do not want to restrict DHH's freedom of speech, he can write and say what he likes. However, free speech is not "freedom from the consequences of that speech", and we as a community are completely free not to associate with people who hold views we find abhorrent.
+
 * ["Plan Vert"](https://en.wikipedia.org/wiki/Railway_sabotage_during_World_War_II#France) was a railway sabotage campaign by the French resistance during WW2. Reference suggested by [@cinebox@masto.hackers.town](https://masto.hackers.town/@cinebox/115210459164892947).
 
 * DHH's writings are available on [his blog](https://web.archive.org/web/20250920182553/world.hey.com/dhh); we link the archive.org mirror rather than send traffic his way.
