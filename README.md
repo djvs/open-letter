@@ -1,9 +1,9 @@
 # Plan Vert
-## An open letter to the Rails Core team and community
+## An open letter to the Rails Core team and Ruby community
 
 David Heinemeier-Hanson (DHH) has publicly published writings that make clear he holds racist and transphobic views, as well as a number of other traits undesirable in any figurehead and community leader.
 
-We, the undersigned, call upon the Rails Core team, with the support of the wider Ruby community, to:
+We, the undersigned, call upon the Rails Core team and the wider Ruby community, to:
 
 1. cut ties with DHH and his work from this point forward
 2. hard fork Rails and associated projects to a new name and development free from his influence
@@ -47,7 +47,8 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 
 * DHH's writings are available on [his blog](https://web.archive.org/web/20250920182553/world.hey.com/dhh); we link the archive.org mirror rather than send traffic his way.
 
-* Many people have written their own thoughts on this (which is not a new problem, but is reaching new levels). Here's a selection:
+* Many people have written their own thoughts on the problems with DHH's influence in Rails and the wider Ruby community (which is not a new problem, but is reaching new levels). Here's a selection:
   * [David Celis: Rails Needs New Governance](https://davidcel.is/articles/rails-needs-new-governance)
   * [Tekin Süleyman: The Ruby community has a DHH problem](https://tekin.co.uk/2025/09/the-ruby-community-has-a-dhh-problem)
+  * [Jared White: Ruby Central is Not Behaving in Good Faith, and I’ve Got Receipts](https://jaredwhite.com/articles/ruby-central-is-not-operating-in-good-faith)
   * [Tom Stuart: The DHH Problem](https://tomstu.art/the-dhh-problem) (old, but illustrative)
