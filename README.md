@@ -1,7 +1,7 @@
 # Plan Vert
 ## An open letter to the Rails Core team and Ruby community
 
-David Heinemeier-Hanson (DHH) has publicly published writings that make clear he holds [racist](https://web.archive.org/web/20250920182553/http://world.hey.com/dhh/as-i-remember-london-e7d38e64) and [transphobic](https://web.archive.org/web/20250920061926/https://world.hey.com/dhh/gender-and-sexuality-alliances-in-primary-school-at-cis-97f66c06) views, as well as a number of other traits [undesirable](https://tomstu.art/the-dhh-problem) in any figurehead and community leader.
+David Heinemeier Hansson (DHH) has publicly published writings that make clear he holds [racist](https://web.archive.org/web/20250920182553/http://world.hey.com/dhh/as-i-remember-london-e7d38e64) and [transphobic](https://web.archive.org/web/20250920061926/https://world.hey.com/dhh/gender-and-sexuality-alliances-in-primary-school-at-cis-97f66c06) views, as well as a number of other traits [undesirable](https://tomstu.art/the-dhh-problem) in any figurehead and community leader.
 
 We, the undersigned, call upon the Rails Core team and the wider Ruby community, to:
 
