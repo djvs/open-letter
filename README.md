@@ -33,6 +33,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |James Smith|[Manyfold](https://manyfold.app)|[@floppy@mastodon.me.uk](https://mastodon.me.uk/@Floppy)|
 |Jamie Schembri|-|[@jamie.schembri.me](https://bsky.app/profile/jamie.schembri.me)|
 |Jared White|[Fullstack Ruby](https://fullstackruby.dev)|[@jaredwhite@indieweb.social](https://indieweb.social/@jaredwhite)|
+|Jason Garber||[sixtwothree.org](https://sixtwothree.org)|
 |Jay Caines-Gooby|-|[jay.gooby.org](https://jay.gooby.org)|
 |Joe Sak|-|[@joesak.com](https://bsky.app/profile/joesak.com)
 |Jochen Lillich|-|[@monospace@floss.social](https://floss.social/@monospace)|
