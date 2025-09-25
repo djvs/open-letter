@@ -17,6 +17,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |0x1eef|[llm.rb](https://github.com/llmrb/llm)|0x1eef@proton.me|
 |Aaron Allen|-|[https://aaronmallen.me](https://aaronmallen.me)|
 |Adrian McEwen|[MCQN Ltd](https://mcqn.com)|[@amcewen@mastodon.me.uk](https://mastodon.me.uk/@amcewen)|
+|Andrew France|-|[@odaeus@social.vivaldi.net](https://social.vivaldi.net/@Odaeus)|
 |Andrew Nesbitt|[Ecosyste.ms](https://ecosyste.ms)|andrew@ecosyste.ms|
 |Andy Callaghan|[-](https://andycallaghan.com)|https://andycallaghan.com|
 |Ariane R.|-|[@ariaru](https://ruby.social/@ariaru)|
