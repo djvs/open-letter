@@ -59,6 +59,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Weldys Santos|[WS Tech](https://www.github.com/weldyss)|[@weldyss@bolha.us](https://bolha.us/@weldyss)|
 |Wout Fierens|-|[@wout.codes](https://bsky.app/profile/wout.codes)|
 |Vito Sartori|-|[vito.io](https://vito.io)|
+|Liam Arbuckle |-|[TheMrScrooby](https://twitter.com/TheMrScrooby)|
 |Tom Marvolo Riddle|-|[@tom@cybre.space](https://mstdn.social/@tom@cybre.space)|
 |...|...|...|
 <!-- Please add your name in alphabetical order! -->
