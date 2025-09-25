@@ -34,6 +34,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Evangelos Paterakis|-|[@GeopJr@tech.lgbt](https://tech.lgbt/@GeopJr)|
 |F|-|[@erbridge@sunspot.garden](https://sunspot.garden/@erbridge)|
 |Giles Bowkett|-|[@gilesb@gmail.com](https://gilesbowkett.com)|
+|Gregory McIntyre|-|[gregorymcintyre.com](https://gregorymcintyre.com)|
 |fell sunderland|-|[hello@fellsunder.land](https://www.fellsunder.land)|
 |Harry Wood|-|[@en.osm.town/@harry_wood](https://en.osm.town/@harry_wood)|
 |Jan Lelis|-|[@janl@mastodon.social](https://mastodon.social/@janl)|
