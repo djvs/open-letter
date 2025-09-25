@@ -23,6 +23,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |David Celis|-|[davidcel.is](https://davidcel.is/about)|
 |Derek Houck|-|[derekhouck.com](https://derekhouck.com)|
 |Dmitry L Rocha|-|[@yetanother.place/@dmitry](https://yetanother.place/@dmitry)|
+|Eric Schultz|-|[@wwahammy.com](https://wwahammy.com)
 |F|-|[@erbridge@sunspot.garden](https://sunspot.garden/@erbridge)|
 |Harry Wood|-|[@en.osm.town/@harry_wood](https://en.osm.town/@harry_wood)|
 |James Smith|[Manyfold](https://manyfold.app)|[@floppy@mastodon.me.uk](https://mastodon.me.uk/@Floppy)|
