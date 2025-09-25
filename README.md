@@ -33,6 +33,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Eugen Rochko|-|[@Gargron@mastodon.social](https://mastodon.social/@Gargron)|
 |F|-|[@erbridge@sunspot.garden](https://sunspot.garden/@erbridge)|
 |Giles Bowkett|-|[@gilesb@gmail.com](https://gilesbowkett.com)|
+|Gregory McIntyre|-|[gregorymcintyre.com](https://gregorymcintyre.com)|
 |fell sunderland|-|[hello@fellsunder.land](https://www.fellsunder.land)|
 |Harry Wood|-|[@en.osm.town/@harry_wood](https://en.osm.town/@harry_wood)|
 |James Jefferies|-|[@jamesjefferies@mastodon.me.uk](https://mastodon.me.uk/@jamesjefferies)|
