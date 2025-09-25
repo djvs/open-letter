@@ -59,6 +59,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Peter Boling|[ruby-oauth](https://github.com/ruby-oauth), [ruby-openid](https://github.com/ruby-openid), [appraisal-rb](https://github.com/appraisal-rb), [kettle-rb](https://github.com/kettle-rb), [galtzo-floss](https://github.com/galtzo-floss), [RuboCop-LTS](https://github.com/rubocop-lts), [floss-funding](https://github.com/floss-funding)|[@galtzo@ruby.social](https://ruby.social/@galtzo)|
 |Rasmus Grouleff|-|[@nerdd@mstdn.social](https://mstdn.social/@nerdd)|
 |Richard Degenne|-|[https://richarddegenne.fr](https://richarddegenne.fr)|
+|Rick Bradley|-|[@rick](https://github.com/rick)|
 |Rob Yurkowski|-|[@robyurkowski@oceanplayground.social](https://oceanplayground.social/@robyurkowski)|
 |Ryan Bigg|-|[https://ruby.social/@ryanbigg](https://ruby.social/@ryanbigg)|
 |Sam Pikesley|-|[sam.pikesley.org](https://sam.pikesley.org/)|
