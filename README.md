@@ -64,6 +64,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Pierre de La Morinerie|-|[@pmorinerie@mastodon.xyz](https://mastodon.xyz/@pmorinerie)|
 |Rasmus Grouleff|-|[@nerdd@mstdn.social](https://mstdn.social/@nerdd)|
 |Richard Degenne|-|[https://richarddegenne.fr](https://richarddegenne.fr)|
+|Rick Bradley|-|[@rick](https://github.com/rick)|
 |Rob Yurkowski|-|[@robyurkowski@oceanplayground.social](https://oceanplayground.social/@robyurkowski)|
 |Ryan Bigg|-|[https://ruby.social/@ryanbigg](https://ruby.social/@ryanbigg)|
 |Sam Pikesley|-|[sam.pikesley.org](https://sam.pikesley.org/)|
