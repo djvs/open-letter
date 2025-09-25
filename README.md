@@ -16,6 +16,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |-|-|-|
 |0x1eef|[llm.rb](https://github.com/llmrb/llm)|0x1eef@proton.me|
 |Aaron Allen|-|[https://aaronmallen.me](https://aaronmallen.me)|
+|Aaron Sumner|-|[@ruralocity@mastodon.social](https://mastodon.social/@ruralocity)|
 |Adrian McEwen|[MCQN Ltd](https://mcqn.com)|[@amcewen@mastodon.me.uk](https://mastodon.me.uk/@amcewen)|
 |Alexander Gräfe|[-](https://rickenharp.dev)|[@rickrickenharp.bsky.social](https://bsky.app/profile/rickrickenharp.bsky.social)|
 |Andrew France|-|[@odaeus@social.vivaldi.net](https://social.vivaldi.net/@Odaeus)|
@@ -31,11 +32,15 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Dmitry L Rocha|-|[@yetanother.place/@dmitry](https://yetanother.place/@dmitry)|
 |Eric Schultz|-|[@wwahammy.com](https://wwahammy.com)|
 |Eugen Rochko|-|[@Gargron@mastodon.social](https://mastodon.social/@Gargron)|
+|Evangelos Paterakis|-|[@GeopJr@tech.lgbt](https://tech.lgbt/@GeopJr)|
 |F|-|[@erbridge@sunspot.garden](https://sunspot.garden/@erbridge)|
 |Giles Bowkett|-|[@gilesb@gmail.com](https://gilesbowkett.com)|
+|Gregory McIntyre|-|[gregorymcintyre.com](https://gregorymcintyre.com)|
 |fell sunderland|-|[hello@fellsunder.land](https://www.fellsunder.land)|
 |Harry Wood|-|[@en.osm.town/@harry_wood](https://en.osm.town/@harry_wood)|
 |Henry Catalini Smith|-|henry@catalinismith.se|
+|Huy Dinh|-|[@huydinh@hachyderm.io](https://hachyderm.io/@huydinh)|
+|Jan Lelis|-|[@janl@mastodon.social](https://mastodon.social/@janl)|
 |James Jefferies|-|[@jamesjefferies@mastodon.me.uk](https://mastodon.me.uk/@jamesjefferies)|
 |James Smith|[Manyfold](https://manyfold.app)|[@floppy@mastodon.me.uk](https://mastodon.me.uk/@Floppy)|
 |Jamie Schembri|-|[@jamie.schembri.me](https://bsky.app/profile/jamie.schembri.me)|
@@ -43,6 +48,8 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Jason Garber||[sixtwothree.org](https://sixtwothree.org)|
 |Jay Caines-Gooby|-|[jay.gooby.org](https://jay.gooby.org)|
 |Jesse Brooklyn Hannah|-|[jbhannah.net](https://jbhannah.net)|
+|Jessica Phoenix Canady|-|[jess@canady.tech](mailto:jess@canady.tech)|
+|Jim Kingdon|-|[@soaproot@sfba.social](https://sfba.social/@soaproot)|
 |Joe Sak|-|[@joesak.com](https://bsky.app/profile/joesak.com)
 |Jochen Lillich|-|[@monospace@floss.social](https://floss.social/@monospace)|
 |John-Paul Teti|-|[@jpteti@mastodon.social](https://mastodon.social/@jpteti)|
@@ -54,12 +61,16 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Lloyd Watkin|-|https://www.evilprofessor.co.uk
 |Maarten Brouwers|-|[https://murb.nl/contact/](https://murb.nl/contact/)|
 |Manuel Bustillo|-|[https://blog.bustikiller.com/about/](https://blog.bustikiller.com/about/)|
+|martin|-|[@clemtre](https://mastodon.social/@clemtre)|
 |Matthew B|-|[https://famichiki.jp/@matthew](https://famichiki.jp/@matthew)|
+|Mike Subelsky|-[https://www.subelsky.com]
 |Nic Lake|-|[https://niclake.me](https://niclake.me)|
 |Pat Allan|-|[freelancing-gods.com](https://freelancing-gods.com)|
 |Peter Boling|[ruby-oauth](https://github.com/ruby-oauth), [ruby-openid](https://github.com/ruby-openid), [appraisal-rb](https://github.com/appraisal-rb), [kettle-rb](https://github.com/kettle-rb), [galtzo-floss](https://github.com/galtzo-floss), [RuboCop-LTS](https://github.com/rubocop-lts), [floss-funding](https://github.com/floss-funding)|[@galtzo@ruby.social](https://ruby.social/@galtzo)|
+|Pierre de La Morinerie|-|[@pmorinerie@mastodon.xyz](https://mastodon.xyz/@pmorinerie)|
 |Rasmus Grouleff|-|[@nerdd@mstdn.social](https://mstdn.social/@nerdd)|
 |Richard Degenne|-|[https://richarddegenne.fr](https://richarddegenne.fr)|
+|Rick Bradley|-|[@rick](https://github.com/rick)|
 |Rob Yurkowski|-|[@robyurkowski@oceanplayground.social](https://oceanplayground.social/@robyurkowski)|
 |Ryan Bigg|-|[https://ruby.social/@ryanbigg](https://ruby.social/@ryanbigg)|
 |Sam Pikesley|-|[sam.pikesley.org](https://sam.pikesley.org/)|
