@@ -56,6 +56,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Lloyd Watkin|-|https://www.evilprofessor.co.uk
 |Maarten Brouwers|-|[https://murb.nl/contact/](https://murb.nl/contact/)|
 |Manuel Bustillo|-|[https://blog.bustikiller.com/about/](https://blog.bustikiller.com/about/)|
+|martin|-|[@clemtre](https://mastodon.social/@clemtre)|
 |Matthew B|-|[https://famichiki.jp/@matthew](https://famichiki.jp/@matthew)|
 |Nic Lake|-|[https://niclake.me](https://niclake.me)|
 |Pat Allan|-|[freelancing-gods.com](https://freelancing-gods.com)|
