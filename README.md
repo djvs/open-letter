@@ -38,20 +38,20 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Dr Kim Foale|[Geeks for Social Change](https://gfsc.community/)|[kim@social.gfsc.studio](https://social.gfsc.studio/@kim)
 |Maarten Brouwers|-|[https://murb.nl/contact/](https://murb.nl/contact/)|
 |Manuel Bustillo|-|[https://blog.bustikiller.com/about/](https://blog.bustikiller.com/about/)|
+|Matthew B|-|[https://famichiki.jp/@matthew](https://famichiki.jp/@matthew)|
 |Nic Lake|-|[https://niclake.me](https://niclake.me)|
 |Pat Allan|-|[freelancing-gods.com](https://freelancing-gods.com)|
 |Peter Boling|[ruby-oauth](https://github.com/ruby-oauth), [ruby-openid](https://github.com/ruby-openid), [appraisal-rb](https://github.com/appraisal-rb), [kettle-rb](https://github.com/kettle-rb), [galtzo-floss](https://github.com/galtzo-floss), [RuboCop-LTS](https://github.com/rubocop-lts), [floss-funding](https://github.com/floss-funding)|[@galtzo@ruby.social](https://ruby.social/@galtzo)|
-|Rasmus Grouleff|-|[@nerdd@mstdn.social](https://mstdn.social/@nerdd|
+|Rasmus Grouleff|-|[@nerdd@mstdn.social](https://mstdn.social/@nerdd)|
 |Richard Degenne|-|[https://richarddegenne.fr](https://richarddegenne.fr)|
 |Rob Yurkowski|-|[@robyurkowski@oceanplayground.social](https://oceanplayground.social/@robyurkowski)|
 |Ryan Bigg|-|[https://ruby.social/@ryanbigg](https://ruby.social/@ryanbigg)|
 |Thomas Fuchs|former Rails Core|[@thomasfuchs.at](https://bsky.app/profile/thomasfuchs.at‬)|
+|Sam Pikesley|-|[sam.pikesley.org](https://sam.pikesley.org/)|
 |Shannon Skipper|-|[https://ruby.social/@havenwood](https://ruby.social/@havenwood)|
 |Weldys Santos|[WS Tech](https://www.github.com/weldyss)|[@weldyss@bolha.us](https://bolha.us/@weldyss)|
 |Wout Fierens|-|[@wout.codes](https://bsky.app/profile/wout.codes)|
 |Vito Sartori|-|[vito.io](https://vito.io)|
-|Sam Pikesley|-|[sam.pikesley.org](https://sam.pikesley.org/)|
-|Matthew B|-|[https://famichiki.jp/@matthew](https://famichiki.jp/@matthew)|
 |...|...|...|
 <!-- Please add your name in alphabetical order! -->
 
