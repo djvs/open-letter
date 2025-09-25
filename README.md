@@ -35,6 +35,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Giles Bowkett|-|[@gilesb@gmail.com](https://gilesbowkett.com)|
 |fell sunderland|-|[hello@fellsunder.land](https://www.fellsunder.land)|
 |Harry Wood|-|[@en.osm.town/@harry_wood](https://en.osm.town/@harry_wood)|
+|Henry Catalini Smith|-|henry@catalinismith.se|
 |James Jefferies|-|[@jamesjefferies@mastodon.me.uk](https://mastodon.me.uk/@jamesjefferies)|
 |James Smith|[Manyfold](https://manyfold.app)|[@floppy@mastodon.me.uk](https://mastodon.me.uk/@Floppy)|
 |Jamie Schembri|-|[@jamie.schembri.me](https://bsky.app/profile/jamie.schembri.me)|
