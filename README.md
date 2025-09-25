@@ -18,6 +18,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Aaron Allen|-|[https://aaronmallen.me](https://aaronmallen.me)|
 |Adrian McEwen|[MCQN Ltd](https://mcqn.com)|[@amcewen@mastodon.me.uk](https://mastodon.me.uk/@amcewen)|
 |Andrew Nesbitt|[Ecosyste.ms](https://ecosyste.ms)|andrew@ecosyste.ms|
+|Andy Callaghan|[-](https://andycallaghan.com)|https://andycallaghan.com|
 |Astrid Gealer|-|[@astrid.place](https://bsky.app/profile/astrid.place)|
 |Cédric Delalande|[Barley Serializer](https://github.com/MoskitoHero/barley)|[@MoskitoHero@ruby.social](https://ruby.social/@MoskitoHero)|
 |Danielle Smith|[mittsu](https://github.com/danini-the-panini/mittsu), [kdl](https://github.com/danini-the-panini/kdl-rb)|[@danini.dev](https://bsky.app/profile/danini.dev)
