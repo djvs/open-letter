@@ -51,6 +51,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Wout Fierens|-|[@wout.codes](https://bsky.app/profile/wout.codes)|
 |Vito Sartori|-|[vito.io](https://vito.io)|
 |Sam Pikesley|-|[sam.pikesley.org](https://sam.pikesley.org/)|
+|Matthew B|-|[https://famichiki.jp/@matthew](https://famichiki.jp/@matthew)|
 |...|...|...|
 <!-- Please add your name in alphabetical order! -->
 
