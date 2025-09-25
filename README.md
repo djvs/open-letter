@@ -38,6 +38,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Gregory McIntyre|-|[gregorymcintyre.com](https://gregorymcintyre.com)|
 |fell sunderland|-|[hello@fellsunder.land](https://www.fellsunder.land)|
 |Harry Wood|-|[@en.osm.town/@harry_wood](https://en.osm.town/@harry_wood)|
+|Henry Catalini Smith|-|henry@catalinismith.se|
 |Huy Dinh|-|[@huydinh@hachyderm.io](https://hachyderm.io/@huydinh)|
 |Jan Lelis|-|[@janl@mastodon.social](https://mastodon.social/@janl)|
 |James Jefferies|-|[@jamesjefferies@mastodon.me.uk](https://mastodon.me.uk/@jamesjefferies)|
