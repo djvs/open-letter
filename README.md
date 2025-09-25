@@ -30,6 +30,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |James Smith|[Manyfold](https://manyfold.app)|[@floppy@mastodon.me.uk](https://mastodon.me.uk/@Floppy)|
 |Jamie Schembri|-|[@jamie.schembri.me](https://bsky.app/profile/jamie.schembri.me)|
 |Jared White|[Fullstack Ruby](https://fullstackruby.dev)|[@jaredwhite@indieweb.social](https://indieweb.social/@jaredwhite)|
+|Jay Caines-Gooby|-|[jay.gooby.org](https://jay.gooby.org)|
 |Joe Sak|-|[@joesak.com](https://bsky.app/profile/joesak.com)
 |Jochen Lillich|-|[@monospace@floss.social](https://floss.social/@monospace)|
 |John-Paul Teti|-|[@jpteti@mastodon.social](https://mastodon.social/@jpteti)|
@@ -53,7 +54,6 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Weldys Santos|[WS Tech](https://www.github.com/weldyss)|[@weldyss@bolha.us](https://bolha.us/@weldyss)|
 |Wout Fierens|-|[@wout.codes](https://bsky.app/profile/wout.codes)|
 |Vito Sartori|-|[vito.io](https://vito.io)|
-
 |...|...|...|
 <!-- Please add your name in alphabetical order! -->
 
