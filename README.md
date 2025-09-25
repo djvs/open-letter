@@ -82,6 +82,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Weldys Santos|[WS Tech](https://www.github.com/weldyss)|[@weldyss@bolha.us](https://bolha.us/@weldyss)|
 |Wout Fierens|-|[@wout.codes](https://bsky.app/profile/wout.codes)|
 |Vito Sartori|-|[vito.io](https://vito.io)|
+|Omar Luqman|[stimulus-store](https://github.com/omarluq/stimulus-store)|[@omarluq.bsky.social](https://bsky.app/profile/omarluq.bsky.social)|
 |...|...|...|
 <!-- Please add your name in alphabetical order! -->
 
