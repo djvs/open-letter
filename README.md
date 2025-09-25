@@ -28,6 +28,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Dmitry L Rocha|-|[@yetanother.place/@dmitry](https://yetanother.place/@dmitry)|
 |Eric Schultz|-|[@wwahammy.com](https://wwahammy.com)
 |F|-|[@erbridge@sunspot.garden](https://sunspot.garden/@erbridge)|
+|fell sunderland|-|[hello@fellsunder.land](https://www.fellsunder.land)|
 |Harry Wood|-|[@en.osm.town/@harry_wood](https://en.osm.town/@harry_wood)|
 |James Smith|[Manyfold](https://manyfold.app)|[@floppy@mastodon.me.uk](https://mastodon.me.uk/@Floppy)|
 |Jamie Schembri|-|[@jamie.schembri.me](https://bsky.app/profile/jamie.schembri.me)|
