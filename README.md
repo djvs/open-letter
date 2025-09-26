@@ -19,6 +19,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Aaron Sumner|-|[@ruralocity@mastodon.social](https://mastodon.social/@ruralocity)|
 |Adrian McEwen|[MCQN Ltd](https://mcqn.com)|[@amcewen@mastodon.me.uk](https://mastodon.me.uk/@amcewen)|
 |Alexander Gräfe|[-](https://rickenharp.dev)|[@rickrickenharp.bsky.social](https://bsky.app/profile/rickrickenharp.bsky.social)|
+|Andreas Haller|-|[@ahx](https://ruby.social/@ahx)|
 |Andrew France|-|[@odaeus@social.vivaldi.net](https://social.vivaldi.net/@Odaeus)|
 |Andrew Nesbitt|[Ecosyste.ms](https://ecosyste.ms)|andrew@ecosyste.ms|
 |Andy Callaghan|[-](https://andycallaghan.com)|https://andycallaghan.com|
