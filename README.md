@@ -95,6 +95,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Vito Sartori|-|[vito.io](https://vito.io)|
 |Omar Luqman|[stimulus-store](https://github.com/omarluq/stimulus-store)|[@omarluq.bsky.social](https://bsky.app/profile/omarluq.bsky.social)|
 |Sam Livingston-Gray|working in Rails since 2006|[@geeksam@ruby.social](https://ruby.social/@geeksam/)|
+|Yvan Sraka|-|[@yvan@functional.cafe](https://functional.cafe/@yvan)|
 |...|...|...|
 <!-- Please add your name in alphabetical order! -->
 
