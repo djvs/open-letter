@@ -39,6 +39,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |F|-|[@erbridge@sunspot.garden](https://sunspot.garden/@erbridge)|
 |Giles Bowkett|-|[@gilesb@gmail.com](https://gilesbowkett.com)|
 |Gregory McIntyre|-|[gregorymcintyre.com](https://gregorymcintyre.com)|
+|Glen Pike|-|https://github.com/glenpike|
 |fell sunderland|-|[hello@fellsunder.land](https://www.fellsunder.land)|
 |Harry Wood|-|[@en.osm.town/@harry_wood](https://en.osm.town/@harry_wood)|
 |Henry Catalini Smith|-|henry@catalinismith.se|
