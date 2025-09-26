@@ -34,6 +34,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |David Celis|-|[davidcel.is](https://davidcel.is/about)|
 |Derek Houck|-|[derekhouck.com](https://derekhouck.com)|
 |Dmitry L Rocha|-|[@yetanother.place/@dmitry](https://yetanother.place/@dmitry)|
+|Edward Loveall|-|[edwardloveall.com](https://edwardloveall.com)|
 |Elouan Martinet|User of Mastodon, GitLab and Jekyll|[@Exagone313](https://share.elouworld.org/@Exagone313)|
 |Eric Schultz|-|[@wwahammy.com](https://wwahammy.com)|
 |Eugen Rochko|-|[@Gargron@mastodon.social](https://mastodon.social/@Gargron)|
