@@ -24,6 +24,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Andy Callaghan|[-](https://andycallaghan.com)|https://andycallaghan.com|
 |Ariane R.|-|[@ariaru](https://ruby.social/@ariaru)|
 |Astrid Gealer|-|[@astrid.place](https://bsky.app/profile/astrid.place)|
+|Can Olcer|-|[@can@mstdn.social](https://mstdn.social/@can)|
 |Cédric Delalande|[Barley Serializer](https://github.com/MoskitoHero/barley)|[@MoskitoHero@ruby.social](https://ruby.social/@MoskitoHero)|
 |Corey Farwell|-|[rwell.org](https://rwell.org/)|
 |Danielle Smith|[mittsu](https://github.com/danini-the-panini/mittsu), [kdl](https://github.com/danini-the-panini/kdl-rb)|[@danini.dev](https://bsky.app/profile/danini.dev)
