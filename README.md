@@ -41,6 +41,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Gregory McIntyre|-|[gregorymcintyre.com](https://gregorymcintyre.com)|
 |Glen Pike|-|https://github.com/glenpike|
 |fell sunderland|-|[hello@fellsunder.land](https://www.fellsunder.land)|
+|Hans de Graaff|[Ruby maintainer @ Gentoo Linux](https://packages.gentoo.org/maintainer/ruby@gentoo.org)|[@graaff@ruby.social](https://ruby.social/@graaff)
 |Harry Wood|-|[@en.osm.town/@harry_wood](https://en.osm.town/@harry_wood)|
 |Henry Catalini Smith|-|henry@catalinismith.se|
 |Huy Dinh|-|[@huydinh@hachyderm.io](https://hachyderm.io/@huydinh)|
