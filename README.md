@@ -63,6 +63,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Maarten Brouwers|-|[https://murb.nl/contact/](https://murb.nl/contact/)|
 |Manuel Bustillo|-|[https://blog.bustikiller.com/about/](https://blog.bustikiller.com/about/)|
 |martin|-|[@clemtre](https://mastodon.social/@clemtre)|
+|matt bluelander|-|[mattbee.zone](https://mattbee.zone)|
 |Matthew B|-|[https://famichiki.jp/@matthew](https://famichiki.jp/@matthew)|
 |Mike Subelsky|-[https://www.subelsky.com]
 |Nic Lake|-|[https://niclake.me](https://niclake.me)|
