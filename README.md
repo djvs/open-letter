@@ -79,6 +79,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Ryan Bigg|-|[https://ruby.social/@ryanbigg](https://ruby.social/@ryanbigg)|
 |Sam Pikesley|-|[sam.pikesley.org](https://sam.pikesley.org/)|
 |Shannon Skipper|-|[https://ruby.social/@havenwood](https://ruby.social/@havenwood)|
+|Sol Ise|-|@solisenet@gmail.com|
 |Thomas Fuchs|former Rails Core|[@thomasfuchs.at](https://bsky.app/profile/thomasfuchs.at‬)|
 |Tim Cowlishaw|-|[timcowlishaw.co.uk](https://www.timcowlishaw.co.uk)|
 |Tom Marvolo Riddle|-|[@tom@cybre.space](https://mstdn.social/@tom@cybre.space)|
