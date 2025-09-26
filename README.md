@@ -50,6 +50,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Jason Garber||[sixtwothree.org](https://sixtwothree.org)|
 |Jay Caines-Gooby|-|[jay.gooby.org](https://jay.gooby.org)|
 |Jesse Brooklyn Hannah|-|[jbhannah.net](https://jbhannah.net)|
+|Jessica Ete|-|[kohrvid.com](https://www.kohrvid.com)|
 |Jessica Phoenix Canady|-|[jess@canady.tech](mailto:jess@canady.tech)|
 |Jim Kingdon|-|[@soaproot@sfba.social](https://sfba.social/@soaproot)|
 |Joe Sak|-|[@joesak.com](https://bsky.app/profile/joesak.com)
