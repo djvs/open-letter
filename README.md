@@ -33,6 +33,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Corey Farwell|-|[rwell.org](https://rwell.org/)|
 |Danielle Smith|[mittsu](https://github.com/danini-the-panini/mittsu), [kdl](https://github.com/danini-the-panini/kdl-rb)|[@danini.dev](https://bsky.app/profile/danini.dev)
 |David Celis|-|[davidcel.is](https://davidcel.is/about)|
+|Denis Defreyne|-|[denisdefreyne.com](https://denisdefreyne.com/)|
 |Derek Houck|-|[derekhouck.com](https://derekhouck.com)|
 |Dmitry L Rocha|-|[@yetanother.place/@dmitry](https://yetanother.place/@dmitry)|
 |Edward Loveall|-|[edwardloveall.com](https://edwardloveall.com)|
