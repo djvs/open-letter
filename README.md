@@ -65,6 +65,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Jim Kingdon|-|[@soaproot@sfba.social](https://sfba.social/@soaproot)|
 |Jochen Lillich|-|[@monospace@floss.social](https://floss.social/@monospace)|
 |Joe Sak|-|[@joesak.com](https://bsky.app/profile/joesak.com)
+|John Colagioia|-|[home page](https://john.colagioia.net)|
 |John Small|-|jds340@gmail.com|
 |John-Paul Teti|-|[@jpteti@mastodon.social](https://mastodon.social/@jpteti)|
 |Jon Wood|-|[@jon@blankpad.net](https://activitypub.blankpad.net/@jon@blankpad.net/)|
