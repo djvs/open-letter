@@ -75,6 +75,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Matthew B|-|[https://famichiki.jp/@matthew](https://famichiki.jp/@matthew)|
 |Mike Subelsky|-[https://www.subelsky.com]
 |Nic Lake|-|[https://niclake.me](https://niclake.me)|
+|Oliver Klee|[Brain Gourmets GmbH](https://www.braingourmets.com/)|[@oliklee@chaos.social](https://chaos.social/@oliklee)|
 |Pat Allan|-|[freelancing-gods.com](https://freelancing-gods.com)|
 |Peter Boling|[ruby-oauth](https://github.com/ruby-oauth), [ruby-openid](https://github.com/ruby-openid), [appraisal-rb](https://github.com/appraisal-rb), [kettle-rb](https://github.com/kettle-rb), [galtzo-floss](https://github.com/galtzo-floss), [RuboCop-LTS](https://github.com/rubocop-lts), [floss-funding](https://github.com/floss-funding)|[@galtzo@ruby.social](https://ruby.social/@galtzo)|
 |Pierre de La Morinerie|-|[@pmorinerie@mastodon.xyz](https://mastodon.xyz/@pmorinerie)|
