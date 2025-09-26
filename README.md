@@ -84,6 +84,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Wout Fierens|-|[@wout.codes](https://bsky.app/profile/wout.codes)|
 |Vito Sartori|-|[vito.io](https://vito.io)|
 |Omar Luqman|[stimulus-store](https://github.com/omarluq/stimulus-store)|[@omarluq.bsky.social](https://bsky.app/profile/omarluq.bsky.social)|
+|Sam Livingston-Gray|working in Rails since 2006|[@geeksam@ruby.social](https://ruby.social/@geeksam/)|
 |...|...|...|
 <!-- Please add your name in alphabetical order! -->
 
