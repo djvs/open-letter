@@ -24,7 +24,6 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Andy Callaghan|[-](https://andycallaghan.com)|https://andycallaghan.com|
 |Ariane R.|-|[@ariaru](https://ruby.social/@ariaru)|
 |Astrid Gealer|-|[@astrid.place](https://bsky.app/profile/astrid.place)|
-|Aurora Nockert|-|[@rawrafox](https://ruby.social/@rawrafox)|
 |Cédric Delalande|[Barley Serializer](https://github.com/MoskitoHero/barley)|[@MoskitoHero@ruby.social](https://ruby.social/@MoskitoHero)|
 |Corey Farwell|-|[rwell.org](https://rwell.org/)|
 |Danielle Smith|[mittsu](https://github.com/danini-the-panini/mittsu), [kdl](https://github.com/danini-the-panini/kdl-rb)|[@danini.dev](https://bsky.app/profile/danini.dev)
@@ -38,6 +37,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |F|-|[@erbridge@sunspot.garden](https://sunspot.garden/@erbridge)|
 |Giles Bowkett|-|[@gilesb@gmail.com](https://gilesbowkett.com)|
 |Gregory McIntyre|-|[gregorymcintyre.com](https://gregorymcintyre.com)|
+|Glen Pike|-|https://github.com/glenpike|
 |fell sunderland|-|[hello@fellsunder.land](https://www.fellsunder.land)|
 |Harry Wood|-|[@en.osm.town/@harry_wood](https://en.osm.town/@harry_wood)|
 |Henry Catalini Smith|-|henry@catalinismith.se|
@@ -50,7 +50,6 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Jason Garber||[sixtwothree.org](https://sixtwothree.org)|
 |Jay Caines-Gooby|-|[jay.gooby.org](https://jay.gooby.org)|
 |Jesse Brooklyn Hannah|-|[jbhannah.net](https://jbhannah.net)|
-|Jessica Ete|-|[kohrvid.com](https://www.kohrvid.com)|
 |Jessica Phoenix Canady|-|[jess@canady.tech](mailto:jess@canady.tech)|
 |Jim Kingdon|-|[@soaproot@sfba.social](https://sfba.social/@soaproot)|
 |Joe Sak|-|[@joesak.com](https://bsky.app/profile/joesak.com)
@@ -79,7 +78,6 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Ryan Bigg|-|[https://ruby.social/@ryanbigg](https://ruby.social/@ryanbigg)|
 |Sam Pikesley|-|[sam.pikesley.org](https://sam.pikesley.org/)|
 |Shannon Skipper|-|[https://ruby.social/@havenwood](https://ruby.social/@havenwood)|
-|Sol Ise|-|@solisenet@gmail.com|
 |Thomas Fuchs|former Rails Core|[@thomasfuchs.at](https://bsky.app/profile/thomasfuchs.at‬)|
 |Tim Cowlishaw|-|[timcowlishaw.co.uk](https://www.timcowlishaw.co.uk)|
 |Tom Marvolo Riddle|-|[@tom@cybre.space](https://mstdn.social/@tom@cybre.space)|
