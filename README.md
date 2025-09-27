@@ -147,6 +147,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Wout Fierens|-|[@wout.codes](https://bsky.app/profile/wout.codes)|
 |Ynda Jas|-|[@YndaJas@tech.lgbt](https://tech.lgbt/@YndaJas)|
 |Yvan Sraka|-|[@yvan@functional.cafe](https://functional.cafe/@yvan)|
+|Austin Ziegler|[mime-types](https://github.com/mime-types), [diff-lcs](https://github.com/halostatue/diff-lcs), [minitar](https://girhub.com/halostatue/minitar)|[@halostatue@cosocial.ca](https://cosocial.ca/@halostatue)|
 <!-- Please add your name in alphabetical order! -->
 
 ### Notes (non-normative)
