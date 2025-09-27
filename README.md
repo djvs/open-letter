@@ -45,6 +45,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |F|-|[@erbridge@sunspot.garden](https://sunspot.garden/@erbridge)|
 |Giles Bowkett|-|[@gilesb@gmail.com](https://gilesbowkett.com)|
 |Glen Pike|-|https://github.com/glenpike|
+|Greg Donald|[TDD Book](https://tddbook.com/)|[@gregdonald@mastodon.social](https://mastodon.social/@gregdonald)|
 |Gregory McIntyre|-|[gregorymcintyre.com](https://gregorymcintyre.com)|
 |fell sunderland|-|[hello@fellsunder.land](https://www.fellsunder.land)|
 |Hans de Graaff|[Ruby maintainer @ Gentoo Linux](https://packages.gentoo.org/maintainer/ruby@gentoo.org)|[@graaff@ruby.social](https://ruby.social/@graaff)
