@@ -47,6 +47,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Eugen Rochko|-|[@Gargron@mastodon.social](https://mastodon.social/@Gargron)|
 |Evangelos Paterakis|-|[@GeopJr@tech.lgbt](https://tech.lgbt/@GeopJr)|
 |F|-|[@erbridge@sunspot.garden](https://sunspot.garden/@erbridge)|
+|Flynn Peck|-|[@pigeon_@tech.lgbt](https://tech.lgbt/@pigeon_)|
 |Giles Bowkett|-|[@gilesb@gmail.com](https://gilesbowkett.com)|
 |Glen Pike|-|https://github.com/glenpike|
 |Greg Donald|[TDD Book](https://tddbook.com/)|[@gregdonald@mastodon.social](https://mastodon.social/@gregdonald)|
