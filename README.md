@@ -71,6 +71,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Jim Kingdon|-|[@soaproot@sfba.social](https://sfba.social/@soaproot)|
 |Jochen Lillich|-|[@monospace@floss.social](https://floss.social/@monospace)|
 |Joe Sak|-|[@joesak.com](https://bsky.app/profile/joesak.com)
+|John Baylor|-|[@johnb@sfba.social](https://sfba.social/@johnb)|
 |John Colagioia|-|[home page](https://john.colagioia.net)|
 |John Small|-|jds340@gmail.com|
 |John-Paul Teti|-|[@jpteti@mastodon.social](https://mastodon.social/@jpteti)|
@@ -115,7 +116,6 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Thomas Fuchs|former Rails Core|[@thomasfuchs.at](https://bsky.app/profile/thomasfuchs.at‬)|
 |Tim Bray|-|[@timbray@cosocial.ca](https://cosocial.ca/@timbray)|
 |Tim Cowlishaw|-|[timcowlishaw.co.uk](https://www.timcowlishaw.co.uk)|
-|Tom Marvolo Riddle|-|[@tom@cybre.space](https://mstdn.social/@tom@cybre.space)|
 |Torsten Schönebaum|-|[@tosch@gruene.social](https://gruene.social/@tosch)|
 |Udo Gröbner|-|[@udl](https://github.com/udl)|
 |Vito Sartori|-|[vito.io](https://vito.io)|
