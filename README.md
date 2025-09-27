@@ -29,7 +29,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Aurora Nockert|-|[@rawrafox](https://ruby.social/@rawrafox)|
 |Can Olcer|-|[@can@mstdn.social](https://mstdn.social/@can)|
 |Cédric Delalande|[Barley Serializer](https://github.com/MoskitoHero/barley)|[@MoskitoHero@ruby.social](https://ruby.social/@MoskitoHero)|
-|Chloe Arciniega|-|[sapphic.moe](https://sapphic.moe)
+|Chloe Arciniega|-|[sapphic.moe](https://sapphic.moe)|
 |Chuck Lauer Vose|-|[@vosechu@ruby.social](@vosechu@ruby.social)|
 |Corey Farwell|-|[rwell.org](https://rwell.org/)|
 |Damien Mathieu|-|[dmathieu](https://dmathieu.com) [dmathieu.com](https://dmathieu.com)|
