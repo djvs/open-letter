@@ -84,7 +84,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |matt bluelander|-|[mattbee.zone](https://mattbee.zone)|
 |Matthew B|-|[https://famichiki.jp/@matthew](https://famichiki.jp/@matthew)|
 |Michael Schulze|[Brain Gourmets GmbH](https://www.braingourmets.com/)|[@michsch@chaos.social](https://chaos.social/@michsch)|
-|Mike Subelsky|-[https://www.subelsky.com]
+|Mike Subelsky|-|[https://www.subelsky.com](https://www.subelsky.com)
 |Mina Slater|-|[@minaslater](https://github.com/minaslater)|
 |Nic Lake|-|[https://niclake.me](https://niclake.me)|
 |Oliver Klee|[Brain Gourmets GmbH](https://www.braingourmets.com/)|[@oliklee@chaos.social](https://chaos.social/@oliklee)|
