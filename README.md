@@ -57,6 +57,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |James Jefferies|-|[@jamesjefferies@mastodon.me.uk](https://mastodon.me.uk/@jamesjefferies)|
 |James Smith|[Manyfold](https://manyfold.app)|[@floppy@mastodon.me.uk](https://mastodon.me.uk/@Floppy)|
 |Jamie Schembri|-|[@jamie.schembri.me](https://bsky.app/profile/jamie.schembri.me)|
+|Jan Krutisch|-|[halfbyte@ruby.social](https://ruby.social/@halfbyte|
 |Jan Lelis|-|[@janl@mastodon.social](https://mastodon.social/@janl)|
 |Jared White|[Fullstack Ruby](https://fullstackruby.dev)|[@jaredwhite@indieweb.social](https://indieweb.social/@jaredwhite)|
 |Jason Garber||[sixtwothree.org](https://sixtwothree.org)|
