@@ -57,6 +57,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Harry Wood|-|[@en.osm.town/@harry_wood](https://en.osm.town/@harry_wood)|
 |Henry Catalini Smith|-|henry@catalinismith.se|
 |Huy Dinh|-|[@huydinh@hachyderm.io](https://hachyderm.io/@huydinh)|
+|Jakub Tuček|-|public@otaznik.net|
 |James Jefferies|-|[@jamesjefferies@mastodon.me.uk](https://mastodon.me.uk/@jamesjefferies)|
 |James Smith|[Manyfold](https://manyfold.app)|[@floppy@mastodon.me.uk](https://mastodon.me.uk/@Floppy)|
 |Jamie Schembri|-|[@jamie.schembri.me](https://bsky.app/profile/jamie.schembri.me)|
