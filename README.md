@@ -111,6 +111,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Sol Ise|-|@solisenet@gmail.com|
 |Sunny Ripert|-|[@sunny](https://github.com/sunny)|
 |Thomas Fuchs|former Rails Core|[@thomasfuchs.at](https://bsky.app/profile/thomasfuchs.at‬)|
+|Tim Bray|-|[@timbray@cosocial.ca](https://cosocial.ca/@timbray)|
 |Tim Cowlishaw|-|[timcowlishaw.co.uk](https://www.timcowlishaw.co.uk)|
 |Tom Marvolo Riddle|-|[@tom@cybre.space](https://mstdn.social/@tom@cybre.space)|
 |Udo Gröbner|-|[@udl](https://github.com/udl)|
