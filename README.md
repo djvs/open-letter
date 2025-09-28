@@ -65,7 +65,8 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Jan Krutisch|-|[halfbyte@ruby.social](https://ruby.social/@halfbyte)|
 |Jan Lelis|-|[@janl@mastodon.social](https://mastodon.social/@janl)|
 |Jared White|[Fullstack Ruby](https://fullstackruby.dev)|[@jaredwhite@indieweb.social](https://indieweb.social/@jaredwhite)|
-|Jason Garber|-|[sixtwothree.org](https://sixtwothree.org), [jasongarber.com](https://jasongarber.com)|
+|Jason Garber||[sixtwothree.org](https://sixtwothree.org)|
+|Jason Garber||[jasongarber.com](https://jasongarber.com)|
 |Jay Caines-Gooby|-|[jay.gooby.org](https://jay.gooby.org)|
 |Jesse Brooklyn Hannah|-|[jbhannah.net](https://jbhannah.net)|
 |Jessica Ete|-|[kohrvid.com](https://www.kohrvid.com)|
