@@ -40,6 +40,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |David Mora|-|[@dgmora](https://github.com/dgmora)|
 |Denis Defreyne|-|[denisdefreyne.com](https://denisdefreyne.com/)|
 |Derek Houck|-|[derekhouck.com](https://derekhouck.com)|
+|Dirk Breuer|-|[@code-later](https://github.com/code-later)|
 |Dmitry L Rocha|-|[@yetanother.place/@dmitry](https://yetanother.place/@dmitry)|
 |Edward Loveall|-|[edwardloveall.com](https://edwardloveall.com)|
 |Elouan Martinet|User of Mastodon, GitLab and Jekyll|[@Exagone313](https://share.elouworld.org/@Exagone313)|
