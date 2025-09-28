@@ -115,7 +115,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Sam Livingston-Gray|working in Rails since 2006|[@geeksam@ruby.social](https://ruby.social/@geeksam/)|
 |Sam Phillips|Rails dev and community member since 2009|[@samsworldofno.bsky.social](https://bsky.app/profile/samsworldofno.bsky.social)|
 |Sam Pikesley|-|[sam.pikesley.org](https://sam.pikesley.org/)|
-|Sander van Kasteel-|[https://social.sandervankasteel.nl/@me](https://social.sandervankasteel.nl/@me)|
+|Sander van Kasteel|-|[https://social.sandervankasteel.nl/@me](https://social.sandervankasteel.nl/@me)|
 |Shannon Skipper|-|[https://ruby.social/@havenwood](https://ruby.social/@havenwood)|
 |Sol Ise|-|@solisenet@gmail.com|
 |Sunny Ripert|-|[@sunny](https://github.com/sunny)|
