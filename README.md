@@ -98,6 +98,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |martin|-|[@clemtre](https://mastodon.social/@clemtre)|
 |Martin Hamilton|[Made you type 'www'](https://datatracker.ietf.org/doc/html/rfc2219)|[martinh.net](https://martinh.net)|
 |matt bluelander|-|[mattbee.zone](https://mattbee.zone)|
+|Matteo Figus|-|[matteofigus](https://github.com/matteofigus)|
 |Matthew B|-|[https://famichiki.jp/@matthew](https://famichiki.jp/@matthew)|
 |Michael Schulze|[Brain Gourmets GmbH](https://www.braingourmets.com/)|[@michsch@chaos.social](https://chaos.social/@michsch)|
 |Mike Sax|-|[@mikesax@mas.to](https://mas.to/@mikesax)|
