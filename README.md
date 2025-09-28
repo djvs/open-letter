@@ -67,7 +67,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Jared White|[Fullstack Ruby](https://fullstackruby.dev)|[@jaredwhite@indieweb.social](https://indieweb.social/@jaredwhite)|
 |Jason Garber|-|[sixtwothree.org](https://sixtwothree.org), [jasongarber.com](https://jasongarber.com)|
 |Jay Caines-Gooby|-|[jay.gooby.org](https://jay.gooby.org)|
-|Jeff Atwood|[discourse.org](https://discourse.org), [Stack Overflow](https://stackoverflow.com/questions)|jatwood@codinghorror.com|
+|Jeff Atwood|[discourse.org](https://discourse.org), [Stack Overflow](https://stackoverflow.com/questions), [2008 blog re: DHH](https://blog.codinghorror.com/douchebaggery/)|jatwood@codinghorror.com|
 |Jesse Brooklyn Hannah|-|[jbhannah.net](https://jbhannah.net)|
 |Jessica Ete|-|[kohrvid.com](https://www.kohrvid.com)|
 |Jessica Phoenix Canady|-|[jess@canady.tech](mailto:jess@canady.tech)|
