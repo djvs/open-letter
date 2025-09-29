@@ -140,6 +140,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Vito Sartori|-|[vito.io](https://vito.io)|
 |Weldys Santos|[WS Tech](https://www.github.com/weldyss)|[@weldyss@bolha.us](https://bolha.us/@weldyss)|
 |Wout Fierens|-|[@wout.codes](https://bsky.app/profile/wout.codes)|
+|Ynda Jas|-|[@YndaJas@tech.lgbt](https://tech.lgbt/@YndaJas)|
 |Yvan Sraka|-|[@yvan@functional.cafe](https://functional.cafe/@yvan)|
 <!-- Please add your name in alphabetical order! -->
 
