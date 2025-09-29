@@ -76,6 +76,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Jesse Brooklyn Hannah|-|[jbhannah.net](https://jbhannah.net)|
 |Jessica Ete|-|[kohrvid.com](https://www.kohrvid.com)|
 |Jessica Phoenix Canady|-|[jess@canady.tech](mailto:jess@canady.tech)|
+|Jim O'Donnell|-|[@eatyourgreens@mastodon.social](https://mastodon.social/@eatyourgreens)|
 |Jim Kingdon|-|[@soaproot@sfba.social](https://sfba.social/@soaproot)|
 |Jochen Lillich|-|[@monospace@floss.social](https://floss.social/@monospace)|
 |Joe Sak|-|[@joesak.com](https://bsky.app/profile/joesak.com)
@@ -156,7 +157,6 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
   * [David Celis: Rails Needs New Governance](https://davidcel.is/articles/rails-needs-new-governance)
   * [Tekin Süleyman: The Ruby community has a DHH problem](https://tekin.co.uk/2025/09/the-ruby-community-has-a-dhh-problem)
   * [Jared White: Ruby Central is Not Behaving in Good Faith, and I’ve Got Receipts](https://jaredwhite.com/articles/ruby-central-is-not-operating-in-good-faith)
-  * [Victor Wynne: Ruby deserves better leadership than DHH](https://victorwynne.com/dhh/) and [Duke University Libraries’ commentary on DHH](https://victorwynne.com/duke-university/)
   * [Tom Stuart: The DHH Problem](https://tomstu.art/the-dhh-problem) (old, but illustrative)
 
 * GitHub issues are disabled on this repo to keep it on-topic and reduce argumentative discussions that go nowhere. Feel free to discuss this in all the usual places though.
