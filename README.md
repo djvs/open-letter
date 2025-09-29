@@ -38,6 +38,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Danielle Smith|[mittsu](https://github.com/danini-the-panini/mittsu), [kdl](https://github.com/danini-the-panini/kdl-rb)|[@danini.dev](https://bsky.app/profile/danini.dev)
 |David Celis|-|[davidcel.is](https://davidcel.is/about)|
 |David Mora|-|[@dgmora](https://github.com/dgmora)|
+|David Roetzel|-|[@dave@upp2.com](https://upp2.com/@dave)|
 |Denis Defreyne|-|[denisdefreyne.com](https://denisdefreyne.com/)|
 |Derek Houck|-|[derekhouck.com](https://derekhouck.com)|
 |Dirk Breuer|-|[@code-later](https://github.com/code-later)|
