@@ -102,6 +102,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Luna Nova|-|[@luna@enby.life](https://enby.life/@luna)|
 |Maarten Brouwers|-|[https://murb.nl/contact/](https://murb.nl/contact/)|
 |Manuel Bustillo|-|[https://blog.bustikiller.com/about/](https://blog.bustikiller.com/about/)|
+|Mark Wyner|-|[Sites/profiles](https://markwyner.omg.lol)|
 |martin|-|[@clemtre](https://mastodon.social/@clemtre)|
 |Martin Hamilton|[Made you type 'www'](https://datatracker.ietf.org/doc/html/rfc2219)|[martinh.net](https://martinh.net)|
 |matt bluelander|-|[mattbee.zone](https://mattbee.zone)|
