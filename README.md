@@ -29,6 +29,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Astrid Gealer|-|[@astrid.place](https://bsky.app/profile/astrid.place)|
 |Aurora Nockert|-|[@rawrafox](https://ruby.social/@rawrafox)|
 |Bastian Greshake Tzovaras|[openSNP](https://github.com/opensnp/snpr)|[@gedankenstuecke@scholar.social](https://scholar.social/@gedankenstuecke)|
+|Brad Grzesiak|rubyist since 2008|[@listrophy@ruby.social](https://ruby.social/@listrophy)|
 |Can Olcer|-|[@can@mstdn.social](https://mstdn.social/@can)|
 |Cédric Delalande|[Barley Serializer](https://github.com/MoskitoHero/barley)|[@MoskitoHero@ruby.social](https://ruby.social/@MoskitoHero)|
 |Chloe Arciniega|-|[sapphic.moe](https://sapphic.moe)|
