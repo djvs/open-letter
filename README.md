@@ -119,6 +119,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Pat Allan|-|[freelancing-gods.com](https://freelancing-gods.com)|
 |Peter Boling|[ruby-oauth](https://github.com/ruby-oauth), [ruby-openid](https://github.com/ruby-openid), [appraisal-rb](https://github.com/appraisal-rb), [kettle-rb](https://github.com/kettle-rb), [galtzo-floss](https://github.com/galtzo-floss), [RuboCop-LTS](https://github.com/rubocop-lts), [floss-funding](https://github.com/floss-funding)|[@galtzo@ruby.social](https://ruby.social/@galtzo)|
 |Pete Keen|-|[@zrail@hachyderm.io](https://hachyderm.io/@zrail)|
+|Peter Solnica|Ruby programmer since 2006, former [Hanami Framework](https://hanamirb.org) core team, creator of [rom-rb](https://github.com/rom-rb) and co-founder of [dry-rb](https://github.com/dry-rb)|[solnic.dev](https://solnic.dev)|
 |Philip Gillißen|-|[@guerda@ruhr.social](https://ruhr.social/@guerda)|
 |Pierre de La Morinerie|-|[@pmorinerie@mastodon.xyz](https://mastodon.xyz/@pmorinerie)|
 |Rasmus Grouleff|-|[@nerdd@mstdn.social](https://mstdn.social/@nerdd)|
