@@ -111,6 +111,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Matteo Figus|-|[matteofigus](https://github.com/matteofigus)|
 |Matthew B|-|[https://famichiki.jp/@matthew](https://famichiki.jp/@matthew)|
 |Michael Schulze|[Brain Gourmets GmbH](https://www.braingourmets.com/)|[@michsch@chaos.social](https://chaos.social/@michsch)|
+|Miguel Cobá|-|[@miguelcoba.com](https://bsky.app/profile/miguelcoba.com)|
 |Mike Sax|-|[@mikesax@mas.to](https://mas.to/@mikesax)|
 |Mike Subelsky|-|[https://www.subelsky.com](https://www.subelsky.com)|
 |Mina Slater|-|[@minaslater](https://github.com/minaslater)|
