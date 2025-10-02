@@ -84,6 +84,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Jim Kingdon|-|[@soaproot@sfba.social](https://sfba.social/@soaproot)|
 |Jochen Lillich|-|[@monospace@floss.social](https://floss.social/@monospace)|
 |Joe Sak|-|[@joesak.com](https://bsky.app/profile/joesak.com)
+|Joff Miller|Rails user since 2008|[joffotron](https://github.com/joffotron)|
 |John Baylor|-|[@johnb@sfba.social](https://sfba.social/@johnb)|
 |John Colagioia|-|[home page](https://john.colagioia.net)|
 |John Small|-|jds340@gmail.com|
