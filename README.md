@@ -39,6 +39,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Chuck Lauer Vose|-|[@vosechu@ruby.social](@vosechu@ruby.social)|
 |Corey Farwell|-|[rwell.org](https://rwell.org/)|
 |Damien Mathieu|Former Rails Issues Team (2012-2014)|[dmathieu](https://github.com/dmathieu), [dmathieu.com](https://dmathieu.com)|
+|Daniel Barlow|-|[@dan@axillae.telent.net](https://axillae.telent.net/@dan)|
 |Danielle Smith|[mittsu](https://github.com/danini-the-panini/mittsu), [kdl](https://github.com/danini-the-panini/kdl-rb)|[@danini.dev](https://bsky.app/profile/danini.dev)
 |David Celis|-|[davidcel.is](https://davidcel.is/about)|
 |David Mora|-|[@dgmora](https://github.com/dgmora)|
