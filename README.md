@@ -139,6 +139,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Sam Phillips|Rails dev and community member since 2009|[@samsworldofno.bsky.social](https://bsky.app/profile/samsworldofno.bsky.social)|
 |Sam Pikesley|-|[sam.pikesley.org](https://sam.pikesley.org/)|
 |Sander van Kasteel|-|[https://social.sandervankasteel.nl/@me](https://social.sandervankasteel.nl/@me)|
+|Sarah Eggleston|fflow.io|[https://github.com/sarah-fflow](https://github.com/sarah-fflow)|
 |Shannon Skipper|-|[https://ruby.social/@havenwood](https://ruby.social/@havenwood)|
 |Sol Ise|-|@solisenet@gmail.com|
 |Sunny Ripert|-|[@sunny](https://github.com/sunny)|
