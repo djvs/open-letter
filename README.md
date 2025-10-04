@@ -134,6 +134,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Richard Degenne|-|[https://richarddegenne.fr](https://richarddegenne.fr)|
 |Rick Bradley|-|[@rick](https://github.com/rick)|
 |Rob Yurkowski|-|[@robyurkowski@oceanplayground.social](https://oceanplayground.social/@robyurkowski)|
+|Robbe Van Petegem|-|[https://robbevanpetegem.be](https://robbevanpetegem.be)|
 |Ryan Bigg|-|[https://ruby.social/@ryanbigg](https://ruby.social/@ryanbigg)|
 |Ryan MacGillivray|-|[@ryn@ruby.social](https://ruby.social/@ryn/)|
 |Sam Livingston-Gray|working in Rails since 2006|[@geeksam@ruby.social](https://ruby.social/@geeksam/)|
