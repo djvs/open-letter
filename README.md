@@ -97,7 +97,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Juanjo Salvador|-|[@jsalvador@mastodon.social](https://mastodon.social/@jsalvador)|
 |Karl Oscar Weber the First|[Camping](https://github.com/camping/camping)|[kow.fm](https://kow.fm)|
 |Kate Donaldson|-|[@katelovescode](https://github.com/katelovescode)|
-|Dr Kim Foale|[Geeks for Social Change](https://gfsc.community/)|[kim@social.gfsc.studio](https://social.gfsc.studio/@kim)
+|Dr Kim Foale|[Geeks for Social Change](https://gfsc.community/), founder of [PlaceCal](https://github.com/geeksforsocialchange/PlaceCal/)|[@kim@social.gfsc.studio](https://social.gfsc.studio/@kim)
 |Konstantin Haase|[Sinatra](https://sinatrarb.com/), [Rack](https://rack.github.io/rack/)|[open-letter@rkh.im](mailto:open-letter@rkh.im)|
 |Laurent Sansonetti|RubyGNOME/RubyCocoa/MacRuby/RubyMotion|[hipbyte.com/~lrz](http://hipbyte.com/~lrz)|
 |Lea Rosema|-|[@lea@lea.lgbt](https://lea.lgbt/@lea)|
