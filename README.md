@@ -20,6 +20,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Adrian McEwen|[MCQN Ltd](https://mcqn.com)|[@amcewen@mastodon.me.uk](https://mastodon.me.uk/@amcewen)|
 |Aji Slater|-|[@doodling.dev](https://bsky.app/profile/doodling.dev)|
 |Alexander Gräfe|[-](https://rickenharp.dev)|[@rickrickenharp.bsky.social](https://bsky.app/profile/rickrickenharp.bsky.social)|
+|Alison Withonel|-|[@alison@tacobelllabs.net](https://tacobelllabs.net/@alison)|
 |Andreas Haller|-|[@ahx](https://ruby.social/@ahx)|
 |Andrew France|-|[@odaeus@social.vivaldi.net](https://social.vivaldi.net/@Odaeus)|
 |Andrew Nesbitt|[Ecosyste.ms](https://ecosyste.ms)|andrew@ecosyste.ms|
