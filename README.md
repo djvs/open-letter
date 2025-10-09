@@ -50,6 +50,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Dirk Breuer|-|[@code-later](https://github.com/code-later)|
 |Dmitry L Rocha|-|[@yetanother.place/@dmitry](https://yetanother.place/@dmitry)|
 |Edward Loveall|-|[edwardloveall.com](https://edwardloveall.com)|
+|Eleanor McHugh|rubyist since 2001|[@feyeleanor@ruby.social]|(https://ruby.social/@feyeleanor)|
 |Elouan Martinet|User of Mastodon, GitLab and Jekyll|[@Exagone313](https://share.elouworld.org/@Exagone313)|
 |Elijah Waxwing|-|[@waxw.ing](https://bsky.app/profile/waxw.ing)|
 |Eric Schultz|-|[@wwahammy.com](https://wwahammy.com)|
