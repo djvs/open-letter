@@ -30,6 +30,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Astrid Gealer|-|[@astrid.place](https://bsky.app/profile/astrid.place)|
 |Aurora Nockert|-|[@rawrafox](https://ruby.social/@rawrafox)|
 |Austin Ziegler|[mime-types](https://github.com/mime-types), [diff-lcs](https://github.com/halostatue/diff-lcs), [minitar](https://github.com/halostatue/minitar)|[@halostatue@cosocial.ca](https://cosocial.ca/@halostatue)|
+|Avner Shanan|-|[https://ashanan.com](https://ashanan.com)|
 |Bastian Greshake Tzovaras|[openSNP](https://github.com/opensnp/snpr)|[@gedankenstuecke@scholar.social](https://scholar.social/@gedankenstuecke)|
 |Brad Grzesiak|rubyist since 2008|[@listrophy@ruby.social](https://ruby.social/@listrophy)|
 |Can Olcer|-|[@can@mstdn.social](https://mstdn.social/@can)|
