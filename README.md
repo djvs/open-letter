@@ -26,6 +26,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Andrew Nesbitt|[Ecosyste.ms](https://ecosyste.ms)|andrew@ecosyste.ms|
 |Andy Callaghan|[-](https://andycallaghan.com)|https://andycallaghan.com|
 |Andy Piper|-|[@andypiper@macaw.social](https://macaw.social/@andypiper)|
+|Anna Wilcox|[Wilcox Technologies Inc.](https://www.wilcoxti.com/)|[https://www.awilfox.com/](https://www.awilfox.com/)|
 |Ariane R.|-|[@ariaru](https://ruby.social/@ariaru)|
 |Astrid Gealer|-|[@astrid.place](https://bsky.app/profile/astrid.place)|
 |Aurora Nockert|-|[@rawrafox](https://ruby.social/@rawrafox)|
